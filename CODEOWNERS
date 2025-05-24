@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @jplette
+/src/backend/database.py      @jplette
+/src/backend/routers/auth.py  @jplette
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @jplette
